@@ -8,7 +8,6 @@ of these artefacts, an early compromission can be detected.
 Binaries can be found in the [release page](https://github.com/SekoiaLab/Fastir_Collector/releases) of this project.
 
 For Windows XP 32-bit, you can get it here:
-FastIR for Windows XP 32-bit
 (https://github.com/ch4meleon/Fastir_Collector/releases)
 
 ## Requirements
