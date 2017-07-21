@@ -10,6 +10,9 @@ Binaries can be found in the [release page](https://github.com/SekoiaLab/Fastir_
 For Windows XP 32-bit, you can get it here:
 (https://github.com/ch4meleon/Fastir_Collector/releases)
 
+If it is still not working, please install Python 2.7.13 on the system you want to run on. (Tested working)
+(https://www.python.org/ftp/python/2.7.13/python-2.7.13.msi)
+
 ## Requirements
 - pywin32
 - python WMI
